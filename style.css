@@ -1,0 +1,12 @@
+.col-sm, .col-sm-6 {
+  margin: 15px;
+}
+
+.bottom {
+  margin-top: 30%;
+  margin-left: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  grid-column-gap: 30px;
+  grid-template-columns: 200px 200px auto;
+}
